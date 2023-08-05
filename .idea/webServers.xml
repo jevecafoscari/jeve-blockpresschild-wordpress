@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e30c1b0b-4b33-4c06-8815-83adf9455874" name="jeve.it">
+        <fileTransfer accessType="SFTP" host="jeve.it" port="22" sshConfigId="535fe721-e379-426e-9023-69b0bd2d2a7b" sshConfig="emiliodallatorre@jeve.it:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
